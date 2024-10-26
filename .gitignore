@@ -1,0 +1,15 @@
+# Ignore MySQL credentials file
+*.properties
+
+# Ignore external libraries (if you're not tracking the JAR file)
+lib/*.jar
+
+# Ignore VS Code settings (if applicable)
+.vscode/
+
+# Ignore compiled class files
+*.class
+
+# Ignore IntelliJ IDEA project files (if applicable)
+*.iml
+.idea/
